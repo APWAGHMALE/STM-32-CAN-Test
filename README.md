@@ -105,8 +105,8 @@ Disable
 
 ```text
 Nominal Prescaler = 17
-Nominal Time Seg1 = 13
-Nominal Time Seg2 = 2
+Nominal Time Seg1 = 15
+Nominal Time Seg2 = 4
 Nominal SJW = 1
 ```
 
